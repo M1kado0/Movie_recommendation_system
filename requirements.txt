@@ -4,6 +4,3 @@ numpy
 requests
 faiss-cpu
 pyyaml
-
-# Local packages
--e . 
